@@ -1,8 +1,9 @@
-using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class playermovement : MonoBehaviour
 {
     [SerializeField] private float moveForce, maxSpeed, jumpForce;
     [SerializeField] private Collider2D groundCheck;
@@ -54,5 +55,4 @@ public class PlayerMovement : MonoBehaviour
             myRB.velocity = new Vector2(myRB.velocity.x, 0f);
         }
     }
-
 }
