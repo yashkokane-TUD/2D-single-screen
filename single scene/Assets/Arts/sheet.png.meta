@@ -361,7 +361,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 70
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -447,7 +447,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 420
-        width: 65
+        width: 70
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -762,7 +762,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 350
-        width: 65
+        width: 68
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -781,9 +781,9 @@ TextureImporter:
       name: sheet_16
       rect:
         serializedVersion: 2
-        x: 65
+        x: 68
         y: 350
-        width: 65
+        width: 70
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -802,9 +802,9 @@ TextureImporter:
       name: sheet_17
       rect:
         serializedVersion: 2
-        x: 130
+        x: 137
         y: 350
-        width: 65
+        width: 73
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -823,9 +823,9 @@ TextureImporter:
       name: sheet_18
       rect:
         serializedVersion: 2
-        x: 195
+        x: 209
         y: 350
-        width: 65
+        width: 71
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -844,9 +844,9 @@ TextureImporter:
       name: sheet_19
       rect:
         serializedVersion: 2
-        x: 260
+        x: 280
         y: 350
-        width: 65
+        width: 69
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -865,9 +865,9 @@ TextureImporter:
       name: sheet_20
       rect:
         serializedVersion: 2
-        x: 325
+        x: 349
         y: 350
-        width: 65
+        width: 69
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -886,9 +886,9 @@ TextureImporter:
       name: sheet_21
       rect:
         serializedVersion: 2
-        x: 390
+        x: 417
         y: 350
-        width: 65
+        width: 72
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -907,9 +907,9 @@ TextureImporter:
       name: sheet_22
       rect:
         serializedVersion: 2
-        x: 455
+        x: 487
         y: 350
-        width: 65
+        width: 72
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -928,9 +928,9 @@ TextureImporter:
       name: sheet_23
       rect:
         serializedVersion: 2
-        x: 520
+        x: 560
         y: 350
-        width: 65
+        width: 70
         height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

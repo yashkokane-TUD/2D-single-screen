@@ -13,9 +13,10 @@ public class playermovement : MonoBehaviour
     private Rigidbody2D myRB;
     private bool canJump;
 
+
     private void Start()
     {
-        myRB = GetComponent<Rigidbody2D>();
+        myRB = GetComponent<Rigidbody2D>();     
     }
 
     private void FixedUpdate()
