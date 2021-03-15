@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,11 +15,18 @@ public class playermovement : MonoBehaviour
     private bool canJump;
     private SpriteRenderer mySR;
     
+    private Animator anim;
+    
     private void Start()
     {
         myRB = GetComponent<Rigidbody2D>();
         mySR = GetComponentInChildren<SpriteRenderer>();
     }
+
+    /*private void Update()
+    {
+        anim.SetFloat("Speed", Mathf.Abs(moveDir));
+    }*/
 
     private void FixedUpdate()
     {
