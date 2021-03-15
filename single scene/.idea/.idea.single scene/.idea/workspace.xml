@@ -10,10 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/bonus.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/playermovement.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/bonus.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/pickups.cs" />
     </changedPaths>
   </component>
@@ -59,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615468255855</updated>
       <workItem from="1615468472289" duration="2856000" />
-      <workItem from="1615825080306" duration="2623000" />
+      <workItem from="1615825080306" duration="3428000" />
     </task>
     <servers />
   </component>
