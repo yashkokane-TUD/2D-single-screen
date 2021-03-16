@@ -12,15 +12,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/bonus.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/exit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.2/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/playermovement.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/bonus.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/pickups.cs" />
       <option value="$PROJECT_DIR$/Assets/exit.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/exit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/playermovement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pc2iUOBz5ri1gvLeh2F09jdS55" />
@@ -65,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1615468255855</updated>
       <workItem from="1615468472289" duration="2856000" />
-      <workItem from="1615825080306" duration="7560000" />
+      <workItem from="1615825080306" duration="7880000" />
+      <workItem from="1615909259193" duration="188000" />
+      <workItem from="1615909582285" duration="6003000" />
     </task>
     <servers />
   </component>
