@@ -12,6 +12,8 @@
           <e p="GameManager.cs" t="Include" />
           <e p="pickups.cs" t="Include" />
           <e p="playermovement.cs" t="Include" />
+          <e p="projectilemovement.cs" t="Include" />
+          <e p="shooting.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
